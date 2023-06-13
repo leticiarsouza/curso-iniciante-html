@@ -1,1 +1,1 @@
-projetos desenvolvidos no curso de html para iniciantes
+projetos desenvolvidos no curso de html para iniciante
