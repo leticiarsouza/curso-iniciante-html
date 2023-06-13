@@ -3,9 +3,9 @@
 Strata
 
 
-![strata1]<img width="1467" alt="Captura de Tela 2023-06-13 às 18 59 14" src="https://github.com/leticiarsouza/curso-iniciante-html/assets/20351447/642948d2-b753-4918-8be7-9d624d17a5a1">
+<img width="1467" alt="Captura de Tela 2023-06-13 às 18 59 14" src="https://github.com/leticiarsouza/curso-iniciante-html/assets/20351447/642948d2-b753-4918-8be7-9d624d17a5a1">
 
-![strata2]<img width="1470" alt="Captura de Tela 2023-06-13 às 18 59 42" src="https://github.com/leticiarsouza/curso-iniciante-html/assets/20351447/95cfb098-77b3-451b-b963-77420506bf2b">
+<img width="1470" alt="Captura de Tela 2023-06-13 às 18 59 42" src="https://github.com/leticiarsouza/curso-iniciante-html/assets/20351447/95cfb098-77b3-451b-b963-77420506bf2b">
 
 
 Fashion
