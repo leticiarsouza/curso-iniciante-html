@@ -1,6 +1,6 @@
 #Projetos desenvolvidos no curso de html para iniciante
 
-Strata 
+:writing_hand: Strata 
 
 
 <img width="1467" alt="Captura de Tela 2023-06-13 às 18 59 14" src="https://github.com/leticiarsouza/curso-iniciante-html/assets/20351447/642948d2-b753-4918-8be7-9d624d17a5a1">
