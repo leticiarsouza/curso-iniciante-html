@@ -1,4 +1,4 @@
-Projetos desenvolvidos no curso de html para iniciante
+:woman_technologist: Projetos desenvolvidos no curso de html para iniciante
 
 :woman_technologist: Projeto Strata
 
